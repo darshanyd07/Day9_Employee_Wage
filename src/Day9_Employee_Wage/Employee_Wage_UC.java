@@ -6,4 +6,3 @@ public class Employee_Wage_UC
         System.out.println("Welcome to Employee Wage Computation Program");
     }
 }
-Day9_Employee_Wage/Employee_Wage_UC.java
